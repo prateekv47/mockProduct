@@ -124,7 +124,7 @@
                     "subCategoryId": 15,
                     "categoryId": 3,
                     "content": "Culpa sed tenetur incidunt quia veniam sed mollitia exercitationem. Laboriosam reprehenderit laborum pariatur ea rem qui inventore. In asperiores dignissimos temporibus et.",
-                    "imageUrl": "https://cdn.igp.com/f_auto,q_auto,t_prodm/products/p-multicolored-mirror-applique-work-cloth-lantern-16238-m.jpg"
+                    "imageUrl": "https://cdn.igp.com/f_auto,q_auto,t_prodm/products/p-cloth-lantern-with-applique-work-28391-m.jpg"
                 },
                 {
                     "id": 15,
@@ -152,15 +152,6 @@
                     "categoryId": 3,
                     "content": "Culpa sed tenetur incidunt quia veniam sed mollitia exercitationem. Laboriosam reprehenderit laborum pariatur ea rem qui inventore. In asperiores dignissimos temporibus et.",
                     "imageUrl": "https://cdn.igp.com/f_auto,q_auto,t_prodm/products/p-personalized-led-lite-glass-bottle-106727-m.jpg"
-                },
-                {
-                    "id": 18,
-                    "name": "Cloth Lantern",
-                    "price": 270,
-                    "subCategoryId": 15,
-                    "categoryId": 3,
-                    "content": "Culpa sed tenetur incidunt quia veniam sed mollitia exercitationem. Laboriosam reprehenderit laborum pariatur ea rem qui inventore. In asperiores dignissimos temporibus et.",
-                    "imageUrl": "https://cdn.igp.com/f_auto,q_auto,t_prodm/products/p-cloth-lantern-with-applique-work-28391-m.jpg"
                 }
     ]
 }
